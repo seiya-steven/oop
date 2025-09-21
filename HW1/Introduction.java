@@ -1,11 +1,11 @@
-public class HelloWorld {
+public class Introduction {
 
     public static void main(String[] args) {
         System.out.println( "Hoang Van Thang\t" +
                             "24020307\t"        +
                             "IT1\t"             +
-                            "HoangThang"        +
-                            "hoangthang121006@gmail.com"
+                            "HoangThang\t"        +
+                            "hoangthang121006@gmail.com\n"
                           );
 
         System.out.println(
