@@ -3,7 +3,7 @@
 // a clearRows() capability.
 
 public class TetrisGrid {
-	boolean[][] grid;
+	private boolean[][] grid;
 	/**
 	 * Constructs a new instance with the given grid.
 	 * Does not make a copy.
